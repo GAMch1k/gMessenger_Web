@@ -1,0 +1,29 @@
+{
+  "name": "gmessenger_web",
+  "version": "1.0.0",
+  "description": "Web Messenger by GAMch1k",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAMch1k/gMessenger_Web.git"
+  },
+  "keywords": [
+    "node",
+    "messenger",
+    "nodeJS"
+  ],
+  "author": "GAMch1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GAMch1k/gMessenger_Web/issues"
+  },
+  "homepage": "https://github.com/GAMch1k/gMessenger_Web#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
